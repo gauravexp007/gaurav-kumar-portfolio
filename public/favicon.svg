@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Gaurav Kumar">
+  <defs>
+    <linearGradient id="wine" gradientUnits="userSpaceOnUse" x1="12" y1="14" x2="52" y2="50">
+      <stop offset="0" stop-color="#ffd0da" />
+      <stop offset="0.45" stop-color="#e0708a" />
+      <stop offset="1" stop-color="#a83a53" />
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="15" fill="#08080d" />
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="14.25" fill="none" stroke="rgba(201,79,102,0.32)" stroke-width="1.5" />
+
+  <g fill="url(#wine)">
+  <g transform="translate(4.83 45.48) scale(0.0167 -0.0167)">
+    <path d="M1784 926H957V607H1326C1320 453 1181 359 986 359C688 359 507 579 507 805C507 1054 718 1251 958 1251C1077 1251 1206 1197 1296 1113L1533 1438C1400 1561 1163 1648 958 1651C458 1651 70 1264 70 804C70 344 457 -38 969 -38C1427 -38 1797 279 1797 769C1797 820 1792 872 1784 926Z" />
+  </g>
+  <g transform="translate(33.03 45.48) scale(0.0167 -0.0167)">
+    <path d="M1494 0 939 826 1433 1612H941L567 1011V1612H140V0H567V613L975 0Z" />
+  </g>
+  </g>
+</svg>
